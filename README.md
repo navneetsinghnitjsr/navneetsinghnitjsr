@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#### My name is Navneet Singh currently working on cisco packet and i love to codding as well as Web Development.
+### My name is Navneet Singh currently working on cisco packet and i love to codding as well as Web Development.
+#### SKIll- C/C++/JAVA/JS/JSP
 
 - 🔭 I’m currently working on Cisco Packet Tracer...
 - 🌱 I’m currently learning Networking and Data Structure...
