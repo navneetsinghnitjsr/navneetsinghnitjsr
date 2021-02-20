@@ -3,6 +3,11 @@
 ### My name is Navneet Singh currently working on cisco packet and i love to codding as well as Web Development.
 #### SKIll- C/C++/JAVA/JS/JSP
 
+![YOTIHARODE's github stats](https://github-readme-stats.vercel.app/api?username=navneetsinghnitjsr&&show_icons=true&title_color=001F3F&icon_color=85144B&text_color=85144B&bg_color=50,FFDC00,FF4136 )
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navneetsinghnitjsr&exclude_repo=github-readme-stats,navneetsinghnitjsr.github.io)
+
+
 - 🔭 I’m currently working on Cisco Packet Tracer...
 - 🌱 I’m currently learning Networking and Data Structure...
 - 👯 I’m looking to collaborate on  Network professional...
