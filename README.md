@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Navneet Singh currently working on cisco packet and i love to codding as well as Web Development.
+### My name is Navneet Singh currently working on ReactJS and RestAPI's and i love to Exploring New technologies as well as Web Development.
 #### SKIll- C/C++/JAVA/JS/JSP
 
 ![YOTIHARODE's github stats](https://github-readme-stats.vercel.app/api?username=navneetsinghnitjsr&&show_icons=true&title_color=001F3F&icon_color=85144B&text_color=85144B&bg_color=50,FFDC00,FF4136 )
